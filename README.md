@@ -2,10 +2,8 @@
 OPENAI function calling demo
 
 一键部署八爪鱼助手
-
-
-[Colab Demo](https://colab.research.google.com/drive/1YZbTzctU-yxltD17ZO9nokph41MxXZjT?usp=sharing)
-[huggingface Demo](https://huggingface.co/spaces/kellyxiaowei/Octopus_chat_anything_Public)
+##[Colab Demo](https://colab.research.google.com/drive/1YZbTzctU-yxltD17ZO9nokph41MxXZjT?usp=sharing)
+##[huggingface Demo](https://huggingface.co/spaces/kellyxiaowei/Octopus_chat_anything_Public)
 
 
 ## 主要功能
