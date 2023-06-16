@@ -9,7 +9,8 @@ OPENAI function calling demo
 
 
 ## 主要功能
-1.实现了OPENAI最基础的函数调用功能
+实现了OPENAIfunction calling功能
+
 ## 开始使用
 
 1. 准备好你的 [OpenAI API Key](https://platform.openai.com/account/api-keys);
