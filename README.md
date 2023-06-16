@@ -5,8 +5,7 @@ OPENAI function calling demo
 
 
 [Colab Demo](https://colab.research.google.com/drive/1YZbTzctU-yxltD17ZO9nokph41MxXZjT?usp=sharing)
-[![image](https://github.com/kellyzxiaowei/Octopus-chat-anything/assets/129767595/82373dd8-dd26-44c2-bf8f-3f1ce4455886)
-huggingface Demo]https://huggingface.co/spaces/kellyxiaowei/Octopus_chat_anything_Public
+[huggingface Demo](https://huggingface.co/spaces/kellyxiaowei/Octopus_chat_anything_Public)
 
 
 ## 主要功能
