@@ -1,5 +1,5 @@
 # Octopus-chat-anything
-OPENAI function calling demo
+OPENAI function calling demo for vision
 
 一键部署八爪鱼助手
 
