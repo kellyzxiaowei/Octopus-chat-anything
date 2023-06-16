@@ -9,7 +9,7 @@ OPENAI function calling demo for vision
 
 
 ## 主要功能
-实现了OPENAIfunction calling功能
+实现了OPENAI function calling的函数调用功能，后续会放出多函数调用的功能。
 
 ## 开始使用
 
